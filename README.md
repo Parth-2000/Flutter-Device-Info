@@ -1,6 +1,14 @@
-# flutter_device_info
+# Flutter_Device_Info
 
 A new Flutter project.
+
+## Description
+
+In above app, access the device info using device_info package.
+For more information visit below link,
+
+### https://pub.dev/packages/device_info
+
 
 ## Getting Started
 
